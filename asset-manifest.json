@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/The_Movie/static/css/main.4522b1e6.chunk.css",
+    "main.js": "/The_Movie/static/js/main.a8c21a2b.chunk.js",
+    "main.js.map": "/The_Movie/static/js/main.a8c21a2b.chunk.js.map",
+    "runtime-main.js": "/The_Movie/static/js/runtime-main.98c1af64.js",
+    "runtime-main.js.map": "/The_Movie/static/js/runtime-main.98c1af64.js.map",
+    "static/css/2.2894c9e2.chunk.css": "/The_Movie/static/css/2.2894c9e2.chunk.css",
+    "static/js/2.e147417d.chunk.js": "/The_Movie/static/js/2.e147417d.chunk.js",
+    "static/js/2.e147417d.chunk.js.map": "/The_Movie/static/js/2.e147417d.chunk.js.map",
+    "index.html": "/The_Movie/index.html",
+    "static/css/2.2894c9e2.chunk.css.map": "/The_Movie/static/css/2.2894c9e2.chunk.css.map",
+    "static/css/main.4522b1e6.chunk.css.map": "/The_Movie/static/css/main.4522b1e6.chunk.css.map",
+    "static/js/2.e147417d.chunk.js.LICENSE.txt": "/The_Movie/static/js/2.e147417d.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/The_Movie/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/The_Movie/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.67797e94.png": "/The_Movie/static/media/tmovie.67797e94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98c1af64.js",
+    "static/css/2.2894c9e2.chunk.css",
+    "static/js/2.e147417d.chunk.js",
+    "static/css/main.4522b1e6.chunk.css",
+    "static/js/main.a8c21a2b.chunk.js"
+  ]
+}
